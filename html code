@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Relógios de Luxo</title>
+</head>
+<body>
+    <h1>Relógios de Luxo</h1>
+    <table>
+        <tr>
+            <td><img src="C:\Users\Acer\Desktop\Projetos VsCode\trabalho\1rolex.png" alt="Relógio 1" class="relogio1"></td>
+            <td>Rolex Submariner</td>
+            <td>Um dos relógios de mergulho mais icônicos do mundo.</td>
+        </tr>
+
+        <tr>
+            <td><img src="C:\Users\Acer\Desktop\Projetos VsCode\trabalho\2omega.png" alt="Relógio 2" class="relogio2"></td>
+            <td>Omega Speedmaster</td>
+            <td>Conhecido como o "Moonwatch", usado na lua.</td>
+        </tr>
+
+        <tr>
+            <td><img src="C:\Users\Acer\Desktop\Projetos VsCode\trabalho\3tag.png" alt="Relógio 3" class="relogio3"></td>
+            <td>Tag Heuer Monaco</td>
+            <td>Famoso pelo seu design quadrado e ligação com o automobilismo.</td>
+        </tr>
+
+        <tr>
+            <td><img src="C:\Users\Acer\Desktop\Projetos VsCode\trabalho\4breitling.png" alt="Relógio 4" class="relogio4"></td>
+            <td>Breitling Navitimer</td>
+            <td>Um relógio de piloto com uma régua de cálculo integrada.</td>
+        </tr>
+
+        <tr>
+            <td><img src="C:\Users\Acer\Desktop\Projetos VsCode\trabalho\5cartier.webp" alt="Relógio 5" class="relogio5"></td>
+            <td>Cartier Tank</td>
+            <td>Um clássico elegante inspirado nos tanques de guerra.</td>
+        </tr>
+    </table>
+    <h2>Alunos:</h2>
+    <h3>David Gabriel - RA: 295751
+        <p>Felipe Martins - RA: 271458</p>
+        </p>Erick - RA: n sei</p>
+        </p>Kauan Robert - RA: 273066</p>
+        </p>Lucilio Schmoeller - RA: 273036</p>
+        </p>Luiz Henrique - RA: 272144</p>
+    </h3>
+</body>
+</html>
